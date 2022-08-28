@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! from war project using maven deployment no2i...!!</h2>
+<h2>Hello cloudbots...from jenkins using deploy to container plugin rolename: manager-script...</h2>
 </body>
 </html>
